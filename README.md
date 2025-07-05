@@ -9,4 +9,4 @@ Description:This project provides a detailed analysis of hospital data using Pow
 Key insights:Total treatment costs across departments
              Department-wise patient flow
              Identified areas with high operational costs
-             Visual dashboards for fast and interactive dat
+             Visual dashboards for fast and interactive data exploration and reporting
